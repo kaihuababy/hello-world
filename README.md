@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-First Repository 
+Hi everybody.
+
+I want to learn PHP.
